@@ -1,1 +1,1 @@
-# project_name
+# Make a Blog using Flask firmware.
